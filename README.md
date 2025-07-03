@@ -13,22 +13,22 @@ lorem
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=relkou&theme=algolia" alt="relkou" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relkou&theme=algolia&layout=compact" alt="relkou" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nova-gv&theme=algolia" alt="nova-gv" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nova-gv&theme=algolia&layout=compact" alt="nova-gv" /></p>
 
 <br>
 <hr/>
 
 ## 🏆 Trophies
-<p align="center"> <a href="https://github.com/relkou"><img
-      src="https://github-profile-trophy.vercel.app/?username=relkou&row=1&column=3&theme=algolia" alt="relkou" /></a>  </p>
+<p align="center"> <a href="https://github.com/nova-gv"><img
+      src="https://github-profile-trophy.vercel.app/?username=nova-gv&row=1&column=3&theme=algolia" alt="nova-gv" /></a>  </p>
 
 <!-- algolia -->
 <br>
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/relkou"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=relkou&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/nova-gv"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nova-gv&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 <hr/>
@@ -36,7 +36,7 @@ lorem
 ## 🐍
   <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/relkou/relkou/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/nova-gv/nova-gv/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 <hr/>
