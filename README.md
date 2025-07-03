@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm NOVA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/relkou"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+;Power-Bi%20|%20Excel%20|%20Python%20MySql;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/nova-gv"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+;Power-Bi%20|%20Excel%20|%20Python%20|%20MySql;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
