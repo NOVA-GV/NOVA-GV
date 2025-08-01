@@ -27,14 +27,6 @@ lorem
 <br>
 <hr/>
 
-## 🐍
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/nova-gv/nova-gv/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
-<hr/>
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 
